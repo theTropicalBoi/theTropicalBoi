@@ -1,4 +1,5 @@
 - 👋 Hi, I’m [@theTropicalBoi](https://github.com/theTropicalBoi)
+- 🌊 Software Engineering Student | Surf Enthusiast | Curious Learner
 - 🌱 I’m currently learning at Holberton School
 - 📫 How to reach me: shaans1290@icloud.com
 
