@@ -2,7 +2,8 @@
 - 🌊 Software Engineering Student | Surf Enthusiast | Curious Learner
 - 🌱 I’m currently learning at Holberton School
 - 📫 How to reach me: shaans1290@icloud.com
-
+- 
+<br>
 ---
 # My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=git,bash,c,html,css,tailwind,js,ts,react,nextjs,py,django,flask,postgres,kali)](https://skillicons.dev)
