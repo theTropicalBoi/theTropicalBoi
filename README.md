@@ -6,6 +6,7 @@
 ---
 # My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=figma,git,bash,c,html,css,tailwind,js,ts,react,nextjs,py,django,flask,postgres,kali)](https://skillicons.dev)
+<br>
 ---
 ![theTropicalBoi's Stats](https://github-readme-stats.vercel.app/api?username=theTropicalBoi&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true) 
 <br><br>
