@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@theTropicalBoi](https://github.com/theTropicalBoi)
 - 🌊 Software Engineering Student | Surf Enthusiast | Curious Learner
 - 🌱 I’m currently learning at [Holberton School France](https://www.holbertonschool.fr/)
-- 🌐 Portfolio Website: https://www.shaansomarchand.dev
+- 🌐 Portfolio Website: [https://www.shaansomarchand.dev](shaansomarchand.dev)
 <!--
 
 # My Tech Stack:
